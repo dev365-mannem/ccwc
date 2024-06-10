@@ -1,5 +1,7 @@
 <h1>Build Your Own wc Tool</h1>
 
+https://codingchallenges.fyi/challenges/challenge-wc
+
 ```
 >go build && go install
 
